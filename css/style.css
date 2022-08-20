@@ -1,0 +1,16 @@
+
+#responsivo img {
+    max-width: 426px;
+    width: 100%;
+}
+
+.caixa {
+    padding: 60px 0;
+    border-bottom: 1px solid #e5e5e5;
+}
+
+@media (max-width: 418px) {
+    .display-4 {
+        font-size: 2rem;
+    }
+}
